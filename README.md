@@ -22,3 +22,9 @@ Here's a walkthrough of the Next-Site:
 <img src='techHalfscreen.gif' title='Video Walkthrough2' width='1500' alt='Video Walkthrough2' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
+
+## Resources
+- fontawesome.com (Used to add fonts icons)
+- undraw.co (Used to get Open-source illustrations)
+- Google Fonts (Used the font Kumbh Sans to change the font)
+- pexels.com (Used to get free stock photos and videos)
