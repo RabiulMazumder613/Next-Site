@@ -1,6 +1,6 @@
 # Next-Site
 
-**Next-Site** is a website for that talks about the next upcoming innovation in tech from the made up company Next.
+**Next-Site** is a website that introduces the next upcoming innovation in tech from the made up company called Next.
 
 Submitted by: **Rabiul Mazumder**
 
